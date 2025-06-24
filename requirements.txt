@@ -1,4 +1,10 @@
 streamlit
-python-dotenv
-google-generativeai
 nbformat
+google-generativeai
+python-dotenv
+markdown
+pandas 
+numpy 
+scikit-learn 
+matplotlib 
+seaborn 
